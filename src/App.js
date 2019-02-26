@@ -3,6 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 import {Button, Modal} from 'react-bootstrap';
 
+//docs :  https://react-bootstrap.netlify.com/getting-started/introduction/
+// ! JUST MAKE SURE TO ADD THE STUFF IN INDEX.HTML !
+
 class App extends Component {
 
   constructor(props) {
